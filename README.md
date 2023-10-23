@@ -5,9 +5,9 @@
 - <b>Microsoft Azure</b>
  - [Create a resource within Azure VMs](https://github.com//configure-ad)
 - <b>Microsoft Azure</b>
-  - [Networking lab overview within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+ - [Networking lab overview within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - <b>Microsoft Azure</b>
-  - [VPN setup and usage within Proton VPNs](https://github.com/joshmadakorcc/configure-ad)
+ - [VPN setup and usage within Proton VPNs](https://github.com/joshmadakorcc/configure-ad)
  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
