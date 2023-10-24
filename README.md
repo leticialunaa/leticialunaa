@@ -3,13 +3,13 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
- - [Create a resource within Azure VMs](https://github.com//configure-ad)
+ - [Create a resource within Azure VMs](https://github.com//create-resource)
 
 - <b>Microsoft Azure</b>
- - [Networking lab overview within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+ - [Networking lab overview within Azure VMs](https://github.com/joshmadakorcc/networking-lab)
 
 - <b>Microsoft Azure</b>
- - [VPN setup and usage within Proton VPNs](https://github.com/joshmadakorcc/configure-ad)
+ - [VPN setup and usage within Proton VPNs](https://github.com/joshmadakorcc/vpn-setup)
 
 
 <h2>🤳Connect with me:</h2>
