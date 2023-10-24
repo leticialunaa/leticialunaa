@@ -1,5 +1,6 @@
-<h1>Hi, my name is Leticia Luna, an  <a href="https://linkedin.com/in/leticia-alvarado-24846815b/">IT Professional</a>☺</h1> 
-I am highly motivated. Seeking employment with a company where I can expand my profession and succeed along with an awesome team.  
+ Leticia Luna is a  <a href="https://linkedin.com/in/leticia-alvarado-24846815b/">IT Professional</a>☺</h1> 
+
+A highly motivated individual. Seeking employment with a company where she can expand her profession and succeed along with an awesome team.  
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
