@@ -1,7 +1,6 @@
  Leticia Luna is an  <a href="https://linkedin.com/in/leticia-alvarado-24846815b/">Cybersecurity Analyst</a>☺</h1> 
 
- Seeking employment with a company in a stimulating environment. A highly motivated individual, pursuing to expand her profession and succeed along with an awesome team. 
-
+Cybersecurity Analyst with hands-on experience in identifying vulnerabilities, analyzing threats, and strengthening security controls. Skilled in monitoring systems, responding to incidents, and applying best practices to protect data and infrastructure. Passionate about continuous learning and committed to helping organizations stay secure in an evolving cyber landscape.
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
