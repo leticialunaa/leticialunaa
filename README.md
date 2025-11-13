@@ -1,4 +1,4 @@
- Leticia Luna is an  <a href="https://linkedin.com/in/leticia-alvarado-24846815b/">IT Professional</a>☺</h1> 
+ Leticia Luna is an  <a href="https://linkedin.com/in/leticia-alvarado-24846815b/">Cybersecurity Analyst</a>☺</h1> 
 
  Seeking employment with a company in a stimulating environment. A highly motivated individual, pursuing to expand her profession and succeed along with an awesome team. 
 
